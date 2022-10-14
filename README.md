@@ -7,7 +7,7 @@ Clone this repository:
 ```
 $ git clone https://github.com/openthread/ot-reference-release
 ```
-
+HELLO 
 Initialize the submodules:
 
 ```
